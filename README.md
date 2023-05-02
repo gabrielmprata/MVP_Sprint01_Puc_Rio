@@ -1,15 +1,32 @@
 # MVP_Sprint01_Puc_Rio
-Trabalho de elaboração de MVP (Minimum Viable Product)
+# Trabalho de elaboração de MVP (Minimum Viable Product)
+A malha rodoviária é a principal forma de locomoção do país no que tange o deslocamento de pessoas, produtos, matérias primas, alimentos e combustível a curtas e longas distâncias.
 
-Coleta de dados: https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-acidentes
+Este trabalho visa mostrar através dos dados abertos disponibilizados pela Polícia Rodoviária Federal, dentre os 70.000 Km de rodovias onde atua, o impacto dos acidentes de trânsito e sua letalidade nas rodovias federais, tendo como período analisado o ano de 2020.
+
+O Brasil é o terceiro país com mais mortes no trânsito, ficando atrás apenas da Índia e da China segundo o relatório Global Status Report on Road Safety da Organização Mundial de Saúde (OMS).
+
+Cerca de 82% dos acidentes de trânsito nas rodovias federais brasileiras, são com vítimas, tendo em vista esse grande percentual de vítimas, nesse estudo, queremos entender os fatores que contribuem para os acidentes acontecerem.
+
+## Coleta de dados:
+https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-acidentes
 >
 Dataset: Agrupado por pessoa, 2019 e 2020
 >  
->  
->  
-Para melhor visão do problema e da solução optou-se por utilizar a técnica dos 5-Ws**2,
+## Tipo de problema:
 >
-Respondendo-se as perguntas a que se refere cada W.
+Classificação, algoritmos de aprendizado de máquina supervisionado
+>  
+
+## Evaluation Metric
+  Accuracy Score
+>
+## Comparative Analysis of Models
+| Algorithm           | Mean Accuracy|
+|---------------------|--------------|
+| XGBoost             |    0.9624    |
+>
+## 5-Ws,
 >
 (Why?) Por que esse problema é importante?
 >
@@ -30,5 +47,15 @@ Dentre os 70.000 Km de rodovias federais onde atua a PRF.
 (When?): Qual o período está sendo analisado? 
 >
 Está sendo analisado 2019 e 2020.
-
-
+>
+## Tool, Libraries & Frameworks used
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly Express
+- Folium
+- Scikit-Learn
+- XGBoost
+- Scipy Stats Bernoulli
+- Missingno
