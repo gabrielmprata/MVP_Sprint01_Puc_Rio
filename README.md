@@ -24,7 +24,7 @@ Classificação, algoritmos de aprendizado de máquina supervisionado
 ## Comparative Analysis of Models
 | Algorithm           | Mean Accuracy|
 |---------------------|--------------|
-| XGBoost             |    0.9624    |
+| XGBoost             |    83,81%    |
 >
 ## 5-Ws,
 >
