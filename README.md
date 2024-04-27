@@ -8,6 +8,7 @@
 #### Disciplina: Análise Exploratória e Pré Processamento de Dados
 #### MVP Sprint01 Puc Rio
 >
+[![Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabrielmprata/MVP_Sprint01_Puc_Rio/blob/main/MVP_Analise_de_Dados_e_boas_praticas.ipynb)
 >
 # 1. Definição do problema
 A malha rodoviária é a principal forma de locomoção do país no que tange o deslocamento de pessoas, produtos, matérias primas, alimentos e combustível a curtas e longas distâncias.
