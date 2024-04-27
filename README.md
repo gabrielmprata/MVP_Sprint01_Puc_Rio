@@ -1,5 +1,10 @@
-# MVP_Sprint01_Puc_Rio
-# Trabalho de elaboração de MVP (Minimum Viable Product)
+
+![bras_83x140_reduzido](https://github.com/gabrielmprata/MVP_Sprint01_Puc_Rio/assets/119508139/4880e33f-47b7-4b75-8a84-bb2d57a8c5f2) 
+
+#  📚 Trabalho de elaboração de MVP 📖
+#### Aluno: Gabriel Prata
+#### Disciplina: Análise Exploratória e Pré Processamento de Dados
+#### MVP Sprint01 Puc Rio
 A malha rodoviária é a principal forma de locomoção do país no que tange o deslocamento de pessoas, produtos, matérias primas, alimentos e combustível a curtas e longas distâncias.
 
 Este trabalho visa mostrar através dos dados abertos disponibilizados pela Polícia Rodoviária Federal, dentre os 70.000 Km de rodovias onde atua, o impacto dos acidentes de trânsito e sua letalidade nas rodovias federais, tendo como período analisado o ano de 2020.
